@@ -1,1 +1,1 @@
-# js_Games
+# Pong-js
